@@ -1,7 +1,9 @@
 # Brute_Forcer_for_Word_Cookies_iOS
 
-LuaPermutations.java -- The starting point of execution
-PixelPoints.java -- A class that stores x and y coordinates of my iPhones custom resolution
+LuaPermutations.java - The starting point of execution
+
+PixelPoints.java - A class that stores x and y coordinates of my iPhones custom resolution
+
 ---
 My earliest non-class related project. 
 
