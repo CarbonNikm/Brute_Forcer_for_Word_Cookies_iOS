@@ -6,7 +6,7 @@ PixelPoints.java - A class that stores x and y coordinates of my iPhones custom 
 
 ---
 
-### An example of the script in action can be found here: https://imgur.com/a/Nfegz
+#### An example of the script in action can be found here: https://imgur.com/a/Nfegz
 
 ---
 One of my earlier non-class related project. 
