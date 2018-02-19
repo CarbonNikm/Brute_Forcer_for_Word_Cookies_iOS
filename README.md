@@ -3,6 +3,7 @@
 LuaPermutations.java - The starting point of execution
 
 PixelPoints.java - A class that stores x and y coordinates of my iPhones custom resolution
+
 ---
 
 ![An example of the script in action can be found here: https://imgur.com/a/Nfegz](https://i.imgur.com/A3LpNHw.gif)
